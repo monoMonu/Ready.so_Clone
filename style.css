@@ -116,6 +116,7 @@ span.prof{
    text-align:center;
    padding-top:3.2rem;
    margin-bottom:4rem;
+   max-width: 800px;
 }
 #box1>p{
    font-size:.7rem;
